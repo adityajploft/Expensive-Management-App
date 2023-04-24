@@ -1,0 +1,21 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #0f0f0f55;
+    color: white;
+    width: -1px;
+    
+}
+
+  
+/* .spinner{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    z-index: 9999;
+  }
+   */
